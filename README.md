@@ -1,6 +1,6 @@
 # Data Processing Project - Hong Kong Common Spatial Data Infrastructure
 
-This project aims to process and extract address data from the Hong Kong Common Spatial Data Infrastructure (空間數據共享平台). The dataset consists of various geographic and residential information across 18 districts, including public rental addresses.
+This project aims to process and extract address data from the Hong Kong Common Spatial Data Infrastructure (空間數據共享平台). The dataset consists of various geographic and residential information across 18 districts, including public rental addresses. The website is: https://portal.csdi.gov.hk/geoportal/#metadataInfoPanel
 
 ![alllogo2 tmb-ze-500-500](https://github.com/user-attachments/assets/25c01767-03bf-42e0-b2b5-e18402dbec5b)
 
