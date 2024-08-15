@@ -17,6 +17,8 @@ Data Transformation: Converts GeoJSON format to a structured Excel format for ea
 
 Batch Processing: Automatically processes multiple files in a single run, saving time and effort.
 
+![ETL-Process](https://github.com/user-attachments/assets/0d3bd947-1a24-4217-af4c-3787daa3e4de)
+
 ## Contributing
 Feel free to contribute by opening issues, submitting pull requests, or sharing feedback!
 
