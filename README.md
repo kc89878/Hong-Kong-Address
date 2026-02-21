@@ -9,7 +9,19 @@ Source: CSDI Geoportal
 Download Link: https://portal.csdi.gov.hk/geoportal/?lang=undefined&datasetId=dpo_rcd_1629267205232_33603
 
 ## Overview
-With the increasing demand for accessible data, this project utilizes open-source geographic information for data warehousing. By converting raw GeoJSON files into structured Excel (XLSX) format, the project simplifies the process of analyzing and manipulating complex spatial data.
+With the increasing demand for accessible data, this project transforms open-source spatial information into a powerful asset for data warehousing.
+
+Key Outcomes:
+
+．Comprehensive Coverage: 
+This pipeline generates a consolidated database of all Hong Kong residential and commercial addresses, providing a single source of truth for location-based data.
+
+．Business Intelligence Enablement: 
+By converting complex GeoJSON into a structured Excel format, this dataset allows businesses to immediately set up various analytics, such as Logistics Route Optimization, Retail Site Selection, and Targeted Demographic Marketing.
+
+．Analytic Readiness: 
+The output is pre-cleaned and standardized, simplifying the process of manipulating complex spatial data for large-scale urban planning or financial risk assessment.
+
 
 ## Features
 1. Data Extraction: 
