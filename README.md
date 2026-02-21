@@ -14,12 +14,15 @@ With the increasing demand for accessible data, this project transforms open-sou
 Key Outcomes:
 
 ．Comprehensive Coverage: 
+
 This pipeline generates a consolidated database of all Hong Kong residential and commercial addresses, providing a single source of truth for location-based data.
 
 ．Business Intelligence Enablement: 
+
 By converting complex GeoJSON into a structured Excel format, this dataset allows businesses to immediately set up various analytics, such as Logistics Route Optimization, Retail Site Selection, and Targeted Demographic Marketing.
 
 ．Analytic Readiness: 
+
 The output is pre-cleaned and standardized, simplifying the process of manipulating complex spatial data for large-scale urban planning or financial risk assessment.
 
 
