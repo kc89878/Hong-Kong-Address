@@ -8,20 +8,20 @@ This project processes and extracts address data from the Hong Kong Common Spati
 With the increasing demand for accessible data, this project utilizes open-source geographic information for data warehousing. By converting raw GeoJSON files into structured Excel (XLSX) format, the project simplifies the process of analyzing and manipulating complex spatial data.
 
 ## Features
-Data Extraction: 
+1. Data Extraction: 
 Efficiently reads and processes multiple GeoJSON files containing district-level address data.
 
-Data Transformation: 
+2. Data Transformation: 
 Converts nested GeoJSON structures into a flattened Excel format for easier integration.
 
-Batch Processing: 
+3. Batch Processing: 
 Automatically handles all 18 districts in a single run, standardizing 39 key columns (e.g., CSDI_BuildingID, CSDI_DistrictC).
 
-Coordinate Mining: 
+4. Coordinate Mining: 
 Automatically extracts and converts Longitude and Latitude (WGS84) from geometry objects into float values.
 
 ## Key Analytics Insights
-Beyond the data conversion, this project provides three core 
+Beyond the data conversion, this project provides three core insight:
 
 1. District Statistical Summary: 
 Ranked all 18 districts by address count, identifying Yuen Long as the district with the highest number of records.
